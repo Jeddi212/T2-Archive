@@ -1,0 +1,75 @@
+Nim     : 1119023
+Nama    : Jedediah Fanuel
+Materi  : Queue
+Kelas   : Struktur Data [IF-A]
+Tanggal : Rabu, 15 April 2020
+
+// Circular Enqueue
+Procedure Enqueue(I/O Q: TQueue, I data: Char) {
+	
+	if(isFull(Q)) {
+
+        print("Queue Penuh")
+
+    } else {
+
+        if(isEmpty(Q)) {
+
+            Q.Head = 1
+
+        }
+
+        if(Q.Tail != MAX) {
+
+        	Q.Tail += 1
+
+        } else {
+
+        	Q.Tail = 0
+
+        }
+
+        Q.Array[Q.Tail] = data
+
+    }
+
+}
+
+// Circular Dequeue
+Function Dequeue(I/O Q: TQueue) -> Char {
+	
+	char data = ''
+
+	if(isEmpty(Q)) {
+
+        print("Queue Kosong")
+        return ''
+
+    } else {
+
+        data = Q.Array[Q.Head]
+
+        if(Q.Head != Q.Tail) {
+
+	        if(Q.Head != MAX) {
+
+		        Q.Head += 1
+
+	        } else {
+
+	        	Q.Head = 0
+
+	        }
+
+	    } else { // Data sisa 1 dibuang, reset HEAD & TAIL
+
+	    	Q.Head = 0
+            Q.Tail = 0
+
+	    }
+
+        return data
+
+    }
+
+}

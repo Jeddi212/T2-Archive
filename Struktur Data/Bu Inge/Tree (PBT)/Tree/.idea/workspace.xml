@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f97c1141-03b2-4bc8-b125-b40ec1097a76" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZevXbqv8wamNuurOUUisdDYea9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Tree" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f97c1141-03b2-4bc8-b125-b40ec1097a76" name="Default Changelist" comment="" />
+      <created>1585212415427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585212415427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom" timestamp="1585280107675">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585280107675" />
+    <state width="738" height="175" key="GridCell.Tab.0.bottom/0.23.1280.712@0.23.1280.712" timestamp="1585279989928" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center" timestamp="1585280107674">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585280107674" />
+    <state width="738" height="175" key="GridCell.Tab.0.center/0.23.1280.712@0.23.1280.712" timestamp="1585279989927" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left" timestamp="1585280107673">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585280107673" />
+    <state width="738" height="175" key="GridCell.Tab.0.left/0.23.1280.712@0.23.1280.712" timestamp="1585279989926" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right" timestamp="1585280107675">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585280107675" />
+    <state width="738" height="175" key="GridCell.Tab.0.right/0.23.1280.712@0.23.1280.712" timestamp="1585279989927" />
+    <state x="355" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1586676441237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="355" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586676441237" />
+    <state x="333" y="211" key="com.intellij.ide.util.TipDialog/0.23.1280.712@0.23.1280.712" timestamp="1585212424914" />
+  </component>
+</project>

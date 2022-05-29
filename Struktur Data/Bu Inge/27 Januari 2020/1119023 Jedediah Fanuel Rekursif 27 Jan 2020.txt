@@ -1,0 +1,55 @@
+1. Operator Pangkat (" ^ ")
+	- Definisi Rekursif Pangkat
+		+ a^0 = 1
+		+ a^1 = a //tapi bisa pake rumus dibawah
+		+ a^(n > 1) = a*(a^(n-1))
+
+	- Contoh Fungsi
+		Function Fpangkat(Input: angka <- integer, n <- integer) <-- integer
+			pangkat <- integer
+			if (n == 0) then
+			pangkat = 1
+				else
+				pangkat = angka*(Fpangkat(angka, n-1))
+			end if
+			return pangkat
+		end function
+
+2. Fibonacci
+	- Definisi Rekursif Fibonacci
+		+ Fibonacci(0) = 0
+		+ Fibonacci(1) = 1
+		+ Fibonacci(n) = Fibonacci(n-1) + Fibonacci(n-2)
+
+	- Contoh Fungsi
+		Function Ffibonacci(Input: n <- integer) <-- integer
+			hasil <- integer
+			if (n == 0) then
+			hasil = 0
+				else if (n == 1) then
+				hasil = 1
+					 else
+					 hasil = (Ffibonacci(n-1) + Ffibonacci(n-2))
+				end if
+			end if
+			return hasil
+		end function
+
+3. Tower Of Hanoi
+	- Definsi Rekursif "Tower Of Hanoi"
+		+ f(n) = (2^n)-1 // jumlah pergerakan
+		+ f(n) = 2^(n-1) // jumlah fungsi yg terpanggil
+		+ TOH(1) = 1
+		+ TOH(2) = 2*TOH(1)+1 = 3
+		+ TOH(n) = 2*TOH(n-1)+1
+
+	- Contoh Procedure
+		Procedure TOH(Input: nCakram, start, mid, finish)
+			if (n == 1) then
+			pindahkan cakram dari start ke finish
+				else
+				TOH(nCakram-1, start, finish, mid)
+				pindahkan cakram dari start ke finish
+				TOH(nCakram-1, mid, start, finish)
+			end if
+		end procedure

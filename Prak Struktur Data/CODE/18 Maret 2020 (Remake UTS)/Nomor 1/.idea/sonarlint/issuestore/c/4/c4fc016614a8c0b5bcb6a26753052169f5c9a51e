@@ -1,0 +1,22 @@
+
+V	java:S106–"9Replace this use of System.out or System.err by a logger.(Í¯ò±8¬Â”Ú.
+m	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¶Îı8ï™˜Ù.
+o
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.( –âÉ8ÇÄ‰Ù.
+V	java:S106˜"9Replace this use of System.out or System.err by a logger.(Äúæê8››˜Ú.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Ôî¹Ãùÿÿÿÿ8§¿Ú.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔğÓÆøÿÿÿÿ
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øò®ƒ8†ğËÙ.
+V
+java:S49732"9Use the "equals" method if value comparison was intended.(³õÅ§8‚Ò‡Ù.
+j	java:S116"NRename this field "SKS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¼ç8Û‚»Ø.
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(–ªíÃûÿÿÿÿ8¥ƒÚ.
+V	java:S106’"9Replace this use of System.out or System.err by a logger.(Ë–Ù8ÕìÚ.
+m	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( –âÉ8èòØ.
+U
+java:S4973<"9Use the "equals" method if value comparison was intended.(†•¼8‚Ò‡Ù.
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(Æà”½8ª©‡Ú.
+V	java:S106Œ"9Replace this use of System.out or System.err by a logger.(¨Ã…ô8Ù×„Ú.
+r	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëåñ½úÿÿÿÿ8ƒŞİØ.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ºì”‹8ÕìÚ.
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(Õ¯õŒ8ŒúÚ.

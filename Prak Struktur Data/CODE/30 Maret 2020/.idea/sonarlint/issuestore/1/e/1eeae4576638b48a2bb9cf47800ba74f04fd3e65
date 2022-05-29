@@ -1,0 +1,71 @@
+
+v
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅíÀ˜8û¿½Ì’.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(şŠ§óøÿÿÿÿ8£ËšÌ’.
+[	java:S106Ë"9Replace this use of System.out or System.err by a logger.(›Ûøøÿÿÿÿ8ëÇ—Î’.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(Éòáö8û¿½Ì’.
+o
+java:S3776g"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(Çµí‘8È©Í’.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(Æõ¹8û¿½Ì’.
+[	java:S106Ø"9Replace this use of System.out or System.err by a logger.(†»ª³ûÿÿÿÿ8ëÇ—Î’.
+w
+java:S1192¹"TDefine a constant instead of duplicating this literal "Masukkan ID Buku : " 4 times.(†»ª³ûÿÿÿÿ8ëÇ—Î’.
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(…¢²šùÿÿÿÿ8ëÇ—Î’.
+j	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çá 8û¿½Ì’.
+[	java:S106¼"9Replace this use of System.out or System.err by a logger.(÷¿ãøÿÿÿÿ8ëÇ—Î’.
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(·àø”8ëÇ—Î’.
+V	java:S106©"9Replace this use of System.out or System.err by a logger.(Êß€8ëÇ—Î’.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(š”¹Ï8ëİ›Ì’.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ú®Â8È©Í’.
+T	java:S106I"9Replace this use of System.out or System.err by a logger.(ªÕÚ78û¿½Ì’.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔğÓÆøÿÿÿÿ
+o	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¢òšûÿÿÿÿ8û¿½Ì’.
+U	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(‹Ô‚8Îİ“Î’.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(şŠ§óøÿÿÿÿ8£ËšÌ’.
+[	java:S106¹"9Replace this use of System.out or System.err by a logger.(†»ª³ûÿÿÿÿ8ëÇ—Î’.
+o	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÿşúÿÿÿÿ8û¿½Ì’.
+u
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å¯Î}8û¿½Ì’.
+V	java:S106à"9Replace this use of System.out or System.err by a logger.(´½€ô8ëÇ—Î’.
+[	java:S106Ş"9Replace this use of System.out or System.err by a logger.(ÿ©Óæşÿÿÿÿ8ëÇ—Î’.
+[	java:S106ú"9Replace this use of System.out or System.err by a logger.(úÜ×ıùÿÿÿÿ8ëÇ—Î’.
+[	java:S106Ç"9Replace this use of System.out or System.err by a logger.(†»ª³ûÿÿÿÿ8ëÇ—Î’.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(óõÃÿÿÿÿÿ8ëİ›Ì’.
+H
+java:S1481W"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8ĞëüÍ’.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(‹½Õ8ëİ›Ì’.
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ı±Ÿüûÿÿÿÿ8û¿½Ì’.
+V	java:S106–"9Replace this use of System.out or System.err by a logger.(»…Â•8È©Í’.
+{
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(×÷Æ øÿÿÿÿ8û¿½Ì’.
+[	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(Í‡¹Šøÿÿÿÿ8ëÇ—Î’.
+[	java:S106ç"9Replace this use of System.out or System.err by a logger.(†»ª³ûÿÿÿÿ8ëÇ—Î’.
+[	java:S106¯"9Replace this use of System.out or System.err by a logger.(Í‡¹Šøÿÿÿÿ8ëÇ—Î’.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(øÛ¥×8û¿½Ì’.
+s	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìş–Üùÿÿÿÿ8ëÇ—Î’.
+[	java:S106å"9Replace this use of System.out or System.err by a logger.(… ëüÿÿÿÿ8ëÇ—Î’.
+r	java:S117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬éÔ±üÿÿÿÿ8È©Í’.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òşà·úÿÿÿÿ8È©Í’.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(µ³Á×8û¿½Ì’.
+o	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µòÚ„ÿÿÿÿÿ8û¿½Ì’.
+[	java:S106ø"9Replace this use of System.out or System.err by a logger.( êÖÍÿÿÿÿÿ8ëÇ—Î’.
+T	java:S106d"9Replace this use of System.out or System.err by a logger.(ßíÑ=8È©Í’.
+V	java:S106 "9Replace this use of System.out or System.err by a logger.(§Í8±•–Î’.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(şŠ§óøÿÿÿÿ8£ËšÌ’.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(óÁë˜8ëİ›Ì’.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ø òûÿÿÿÿ8û¿½Ì’.
+[	java:S106ş"9Replace this use of System.out or System.err by a logger.(ÃˆÌúüÿÿÿÿ8ëÇ—Î’.
+Q
+java:S2175Ê".A "LinkedList<Buku>" cannot contain a "String"(íÉö—ÿÿÿÿÿ8ëÇ—Î’.
+o	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÇÉ„üÿÿÿÿ8È©Í’.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ˆö¹½8Ìé‘Î’.
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(’Ûî–8û¿½Ì’.
+[	java:S106™"9Replace this use of System.out or System.err by a logger.(Ï§ø¤ùÿÿÿÿ8È©Í’.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(½“Ğûÿÿÿÿ8û¿½Ì’.
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(óÁë˜8ëİ›Ì’.
+[	java:S106Ö"9Replace this use of System.out or System.err by a logger.(… ëüÿÿÿÿ8ëÇ—Î’.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(ˆ„Ş8û¿½Ì’.
+V	java:S106Á"9Replace this use of System.out or System.err by a logger.(†“€å8ëÇ—Î’.
+j	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ŞÒ 8û¿½Ì’.
+V	java:S106Â"9Replace this use of System.out or System.err by a logger.(ù¨ßÍ8˜òÎ’.
+V	java:S106Ã"9Replace this use of System.out or System.err by a logger.(€´¿ë8˜òÎ’.

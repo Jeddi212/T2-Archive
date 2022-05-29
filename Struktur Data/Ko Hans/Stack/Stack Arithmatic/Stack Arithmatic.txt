@@ -1,0 +1,45 @@
+Tanggal : 1 April 2020
+Nim     : 1119023 (IF-A)
+Nama    : Jedediah Fanuel
+Kelas   : Struktur Data
+Materi  : Stack
+
+1. (X + Y) * (P - Q / L)
+
+ch		Stack(bottom to top)		postfixExp
+(		(
+X 		(							X
++		(+							X
+Y		(+							XY
+)		(							XY+
+									XY+
+*		*						    XY+
+(		*(							XY+
+P 		*(							XY+P
+-		*(-							XY+P
+Q 		*(-							XY+PQ
+/		*(-/						XY+PQ
+L 		*(-/						XY+PQL
+)		*(-							XY+PQL/
+		*(							XY+PQL/-
+		*							XY+PQL/-
+									XY+PQL/-*
+
+2. L - M / ((N * O) ^ P)
+ch		Stack(bottom to top)		postfixExp
+L									L
+- 		-							L
+M		-							LM
+/		-/							LM
+(		-/(							LM
+(		-/((							LM
+N		-/((						    LMN
+*		-/((*						LMN
+O 		-/((*						LMNO
+)		-/(							LMNO*
+ 		-/(							LMNO*
+^		-/(^							LMNO*
+P 		-/(^							LMNO*P
+)		-/							LMNO*P^
+		-							LMNO*P^/
+									LMNO*P^/-

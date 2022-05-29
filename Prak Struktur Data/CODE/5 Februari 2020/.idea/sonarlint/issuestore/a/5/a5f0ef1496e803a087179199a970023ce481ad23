@@ -1,0 +1,65 @@
+
+j
+java:S1192 "GDefine a constant instead of duplicating this literal "keluar" 3 times.(ªâùÿÿÿÿ8Ÿœ¸ë–.
+k
+java:S1192¶"HDefine a constant instead of duplicating this literal "loopRac" 3 times.(‘ĞİËøÿÿÿÿ8Ÿœ¸ë–.
+
+java:S1192ß"aDefine a constant instead of duplicating this literal "Atau ketik 'keluar' untuk keluar" 3 times.(î•ÆÓ8Ÿœ¸ë–.
+m
+java:S1192Œ"ODefine a constant instead of duplicating this literal " , Harga : Rp." 3 times.(õÑ‚ğ8Ÿœ¸ë–.
+n	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ôäİ‚úÿÿÿÿ8Ÿœ¸ë–.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…°»ïüÿÿÿÿ8Ÿœ¸ë–.
+m	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıè¥î8Ÿœ¸ë–.
+m	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷á½æ8Ÿœ¸ë–.
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÇ¥üÿÿÿÿ8Ÿœ¸ë–.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÛ¿²ûÿÿÿÿ8Ÿœ¸ë–.
+n	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÅ 8Ÿœ¸ë–.
+s	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²éìŒùÿÿÿÿ8Ÿœ¸ë–.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔğÓÆøÿÿÿÿ8Ÿœ¸ë–.
+k	java:S116
+"ORename this field "Nama" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íî¤¦8Ÿœ¸ë–.
+q	java:S116"PRename this field "Harga" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î»Åñûÿÿÿÿ8Ÿœ¸ë–.
+i	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÒŸ8Ÿœ¸ë–.
+k	java:S116"ORename this field "Rasa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‚Íá8Ÿœ¸ë–.
+s	java:S116"RRename this field "Topping" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¡á«ùÿÿÿÿ8Ÿœ¸ë–.
+q	java:S116"PRename this field "Harga" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î»Åñûÿÿÿÿ8Ÿœ¸ë–.
+m	java:S116"QRename this field "HargaT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ó‰„8Ÿœ¸ë–.
+i	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÒŸ8Ÿœ¸ë–.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄğÒ¥ıÿÿÿÿ8Ÿœ¸ë–.
+[
+java:S1854$"9Remove this useless assignment to local variable "sugar".(³õÙ¤üÿÿÿÿ8Ÿœ¸ë–.
+Y
+java:S1854#"7Remove this useless assignment to local variable "ice".(¬â×‰ıÿÿÿÿ8Ÿœ¸ë–.
+Z
+java:S1854ä"7Remove this useless assignment to local variable "out".(ÑàùÀüÿÿÿÿ8Ÿœ¸ë–.
+Z
+java:S1854é"7Remove this useless assignment to local variable "out".(ÑàùÀüÿÿÿÿ8Ÿœ¸ë–.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(Çµí‘8Ÿœ¸ë–.
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(ÃÀãò8Ÿœ¸ë–.
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(ç¡–İşÿÿÿÿ8Ÿœ¸ë–.
+T	java:S106o"9Replace this use of System.out or System.err by a logger.(Ğ¶ì/8Ÿœ¸ë–.
+U	java:S106p"9Replace this use of System.out or System.err by a logger.(Âˆ˜¸8Ÿœ¸ë–.
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(ï½Æ­şÿÿÿÿ8Ÿœ¸ë–.
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(‰•’º8Ÿœ¸ë–.
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(µêÔí8Ÿœ¸ë–.
+V	java:S106Œ"9Replace this use of System.out or System.err by a logger.(õÑ‚ğ8Ÿœ¸ë–.
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(¾¶§Íÿÿÿÿÿ8Ÿœ¸ë–.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(Ùéê8Ÿœ¸ë–.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Åô ¿ùÿÿÿÿ8Ÿœ¸ë–.
+[	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(Ö½‹ˆúÿÿÿÿ8Ÿœ¸ë–.
+V	java:S106¦"9Replace this use of System.out or System.err by a logger.(¶ÃÂ®8Ÿœ¸ë–.
+[	java:S106¨"9Replace this use of System.out or System.err by a logger.(å¯€øÿÿÿÿ8Ÿœ¸ë–.
+[	java:S106­"9Replace this use of System.out or System.err by a logger.(š”–Éûÿÿÿÿ8Ÿœ¸ë–.
+V	java:S106»"9Replace this use of System.out or System.err by a logger.(’ÑÁÖ8Ÿœ¸ë–.
+V	java:S106½"9Replace this use of System.out or System.err by a logger.(Úâ‡‘8Ÿœ¸ë–.
+[	java:S106Â"9Replace this use of System.out or System.err by a logger.(ñØ€•şÿÿÿÿ8Ÿœ¸ë–.
+V	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(ˆ¤©—8Ÿœ¸ë–.
+[	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(Åô ¿ùÿÿÿÿ8Ÿœ¸ë–.
+[	java:S106Ò"9Replace this use of System.out or System.err by a logger.(Ö½‹ˆúÿÿÿÿ8Ÿœ¸ë–.
+U	java:S106Ş"9Replace this use of System.out or System.err by a logger.(×Ê›Q8Ÿœ¸ë–.
+V	java:S106ß"9Replace this use of System.out or System.err by a logger.(î•ÆÓ8Ÿœ¸ë–.
+V	java:S106â"9Replace this use of System.out or System.err by a logger.(“ı£ò8Ÿœ¸ë–.
+V	java:S106ã"9Replace this use of System.out or System.err by a logger.(î•ÆÓ8Ÿœ¸ë–.
+[	java:S106ç"9Replace this use of System.out or System.err by a logger.(°ÎÀûÿÿÿÿÿ8Ÿœ¸ë–.
+V	java:S106è"9Replace this use of System.out or System.err by a logger.(î•ÆÓ8Ÿœ¸ë–.

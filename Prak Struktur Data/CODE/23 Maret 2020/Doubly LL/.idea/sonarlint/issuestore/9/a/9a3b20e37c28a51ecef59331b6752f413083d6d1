@@ -1,0 +1,27 @@
+
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8íı„¬.
+V	java:S106„"9Replace this use of System.out or System.err by a logger.(½½§8íı„¬.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(÷²­Àúÿÿÿÿ8’íÖª.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ƒ¹ñä8íı„¬.
+T	java:S106."9Replace this use of System.out or System.err by a logger.(±í O8’íÖª.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŞÕ¾¶8ÅäÁª.
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(Ó¨†¨8íı„¬.
+U	java:S106~"9Replace this use of System.out or System.err by a logger.(°§Íü8íı„¬.
+y
+java:S1488$"\Immediately return this expression instead of assigning it to the temporary variable "user".(Òë”ã8ó¼Óª.
+T	java:S106>"9Replace this use of System.out or System.err by a logger.(±í O8íı„¬.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÑŸ»„8ó¼Óª.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8’íÖª.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(÷²­Àúÿÿÿÿ8Ğ—¬.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ÅçÂïøÿÿÿÿ8Ù®õ«.
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(ŸøƒÖ8íı„¬.
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8íı„¬.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(èÇï8ó¼Óª.
+D
+java:S1659
+""Declare "prev" on a separate line.(¿”§üÿÿÿÿ8»˜Ïª.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(™¬Ç•8ó¼Óª.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(•ÁêŒşÿÿÿÿ8Äóô«.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.( ù½ôûÿÿÿÿ8ó¼Óª.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔğÓÆøÿÿÿÿ
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(ƒ¹ñä8’íÖª.

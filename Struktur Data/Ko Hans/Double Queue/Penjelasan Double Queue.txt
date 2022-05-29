@@ -1,0 +1,76 @@
+// Nim  : 1119023
+// Nama : Jedediah Fanuel
+
+Saya menggunakan prinsip Shifting Enqueue
+
+Disini tidak menggunakan penggeseran data jika
+Queue benar-benar sudah full, 
+jadi data baru tidak akan dimasukkan
+
+Variable penunjuk index tetap menggunakan Head dan Tail
+
+// Mengecek jika index Terakhir terisi
+isFull_Rear  = jika Tail == MAX-1
+
+// Mengecek jika index Awal terisi
+isFull_Front = jika Head == 0
+
+// Mengecek queue benar-benar full
+isFull_Rear && isFull_Front
+
+// Mengecek jika Queue Kosong Melompong
+isEmpty		 = jika Head == -1 && Tail == -1
+
+
+Contoh programnya seperti berikut : 
+-----------------------------------
+
+Queue sekarang : [ ,  ,  ,  ,  ]
+
+Enqueue Front (a)
+Queue sekarang : [a,  ,  ,  ,  ]
+
+Enqueue Rear (b)
+Queue sekarang : [a, b,  ,  ,  ]
+
+Dequeue Rear
+Queue sekarang : [a,  ,  ,  ,  ]
+
+Enqueue Front (m)
+Queue sekarang : [ ,  ,  , m, a]
+
+Dequeue Rear
+Queue sekarang : [ ,  ,  , m,  ]
+
+Dequeue Front
+Queue sekarang : [ ,  ,  ,  ,  ]
+
+Dequeue Front // Queue Kosong
+Queue sekarang : [ ,  ,  ,  ,  ]
+
+Enqueue Rear (W)
+Queue sekarang : [ ,  ,  ,  , W]
+
+Enqueue Rear (A)
+Queue sekarang : [W, A,  ,  ,  ]
+
+Enqueue Rear (G)
+Queue sekarang : [W, A, G,  ,  ]
+
+Enqueue Front (A)
+Queue sekarang : [ , A, W, A, G]
+
+Dequeue Rear
+Queue sekarang : [ , A, W, A,  ]
+
+Enqueue Front (M)
+Queue sekarang : [M, A, W, A,  ]
+
+Enqueue Rear (R)
+Queue sekarang : [M, A, W, A, R]
+
+Enqueue Front (O) // Queue Full
+Queue sekarang : [M, A, W, A, R]
+
+Enqueue Rear (I) // Queue Full
+Queue sekarang : [M, A, W, A, R]

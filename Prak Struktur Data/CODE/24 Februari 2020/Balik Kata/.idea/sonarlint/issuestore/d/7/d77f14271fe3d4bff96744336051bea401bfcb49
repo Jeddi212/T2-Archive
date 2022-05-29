@@ -1,0 +1,9 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ôøÅþÿÿÿÿ8Æ§ªÄ‰.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔðÓÆøÿÿÿÿ8Æ§ªÄ‰.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ôøÅþÿÿÿÿ8Æ§ªÄ‰.
+V
+java:S1854"9Remove this useless assignment to local variable "hasil".(ÀÃ”•8Æ§ªÄ‰.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ãŠÿæ8Æ§ªÄ‰.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡ÏÞì8Æ§ªÄ‰.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(øùÎÉúÿÿÿÿ8Æ§ªÄ‰.

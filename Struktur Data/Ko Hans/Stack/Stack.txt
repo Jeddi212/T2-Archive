@@ -1,0 +1,50 @@
+// Array
+Type TStack : <stack : Array[0..Max] of Int
+				 top : Int> // top tuh isinya index
+
+Function isEmpty(i stk: TStack) -> Boolean {
+	if (stk.top == 0) {
+		return True
+	} else {
+		return False
+	}
+}
+
+Function isFull(i stk: TStack) -> Boolean {
+	if (stk.top == Max) {
+		return True
+	} else {
+		return False
+	}
+}
+
+// Linked List
+Type TNoded : <data : Int
+				next : pointer of TNode>
+Type TStack : <top : pointer of TNode>
+
+Function isEmpty(i stk: TStack) -> Boolean {
+	return (stk.top == NULL)
+}
+
+Function isFull(i stk: TStack) -> Boolean {
+	// Linked List tidak mungkin full
+}
+
+
+LL
+add
+top
+1 -> NULL
+
+add
+top
+2 -> 1 -> NULL
+
+add
+top
+3 -> 2 -> 1 -> NULL
+
+pop
+temp	  |	top
+3 -> NULL |	2 -> 1 -> NULL

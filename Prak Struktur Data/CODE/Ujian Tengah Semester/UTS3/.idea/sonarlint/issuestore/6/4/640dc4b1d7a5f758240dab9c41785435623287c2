@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔğÓÆøÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÌî¯8—©éè‹.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯¸÷£8µÛè‹.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÍÁ¿8²¦£é‹.
+W
+java:S1854":Remove this useless assignment to local variable "Matrix".(÷ÍÁ¿8²¦£é‹.
+U
+java:S1197"8Move the array designator from the variable to the type.(÷ÍÁ¿8²¦£é‹.
+H
+java:S1481"+Remove this unused "Matrix" local variable.(÷ÍÁ¿8²¦£é‹.

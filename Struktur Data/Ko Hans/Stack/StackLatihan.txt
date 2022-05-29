@@ -1,0 +1,79 @@
+Tanggal : 31 Maret 2020
+Nim     : 1119023 (IF-A)
+Nama    : Jedediah Fanuel
+Kelas   : Struktur Data
+Materi  : Stack
+
+// Array (Asumsi, array mulai dari index 1)
+Procedure push(i stk: TStack, data: Int){
+	2 case: isFull & bisa push
+	
+	if (isFull(stk)) {
+
+		print("Stack Penuh")
+
+	} else {
+
+		stk.top++
+		stk.stack[stk.top] = data
+
+	}
+
+}
+
+Function pop(i stk: TStack) -> Int {
+	2 case: isEmpty & bisa pop
+
+	int temp
+
+	if (isEmpty(stk)) {
+
+		print("Stack Kosong")
+		return 0
+
+	} else {
+
+		stk.top--
+		return stk.stack[stk.top+1]
+
+	}
+
+}
+
+// Linked List
+Procedure push(i stk: TStack, data: Int) {
+	2 case: isEmpty (setHead) & bisa push (addFirst)
+
+	if (isEmpty(stk)) {
+
+		stk.top.data = data
+		stk.top.next = NULL
+
+	} else {
+
+		TNode tambah = new TNode
+		tambah.data = data
+		tambah.next = stk.top
+		stk.top = tambah
+
+	}
+
+}
+
+Function pop(i/o stk: TStack) -> Int {
+	2 case: isEmpty & bisa pop (getFirst)
+
+	if (isEmpty(stk)) {
+
+		print("Stack Kosong")
+		return 0
+
+	} else {
+
+		int temp = stk.top.data
+		stk.top = stk.top.next
+		return = temp
+
+	}
+
+}

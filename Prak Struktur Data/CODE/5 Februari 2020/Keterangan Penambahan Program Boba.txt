@@ -1,0 +1,3 @@
+-> Penambahan menu awal, menambahkan pilihan menu yang sudah tersedia (alias menu jadi).
+-> Penambahan while untuk pengulangan program apabila input yang diharapkan tidak terpenuhi sehingga input akan diulang.
+-> Penggunaan function untuk penghitungan Pajak.

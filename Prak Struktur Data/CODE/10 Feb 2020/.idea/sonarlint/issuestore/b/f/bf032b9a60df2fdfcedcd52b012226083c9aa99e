@@ -1,0 +1,62 @@
+
+Gsquid:S1125¦"(Remove the literal "true" boolean value.(ˆ®¾8Ğƒ„‡….
+ssquid:S00100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñã¨üÿÿÿÿ8ÃÁÉø„.
+xsquid:S00116"TRename this field "lama_Inap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÃÚÖıÿÿÿÿ8ÏÆü¦ƒ.
+qsquid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ã“ç8ŞùÑ…….
+vsquid:S00117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¸”óÿÿÿÿÿ8ŞùÑ…….
+vsquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûü²Ïøÿÿÿÿ8ÃÁÉø„.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔğÓÆøÿÿÿÿ
+Osquid:S1444	",Make this "public static Cabang" field final(¾ÛÁ‘şÿÿÿÿ8š™Çò„.
+†squid:S4165]"cRemove this useless assignment; "found" already holds the assigned value along all execution paths.(¥’†¦ûÿÿÿÿ8ÖàÎø„.
+tsquid:S3008	"QRename this field "Cabang" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÛÁ‘şÿÿÿÿ8š™Çò„.
+qsquid:S3776—"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(° …É8ÃÁÉø„.
+nsquid:S00100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ã“ç8ŞùÑ…….
+msquid:S1192ğ"NDefine a constant instead of duplicating this literal "Tertera : Rp." 3 times.(š‡Ê¹8ŞùÑ…….
+Nsquid:S1444"+Make this "public static penuh" field final(ÄÀÁ¥øÿÿÿÿ8¯µÃ†….
+jsquid:S1871T"LThis branch's code block is the same as the block for the branch on line 82.(´ÊòŒ8å“Ëø„.
+†"squid:ClassVariableVisibilityCheck"QMake TOTAL a static final constant or non-public and provide accessors if needed.(´ÃŒÜ8Öì³Ê„.
+nsquid:S00116"ORename this field "Nama" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íî¤¦8š™Çò„.
+usquid:S3776*"RRefactor this method to reduce its Cognitive Complexity from 88 to the 15 allowed.(È·Ğ¼ÿÿÿÿÿ8øúÛô„.
+vsquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûƒúÿÿÿÿ8ŞùÑ…….
+\"squid:SwitchLastCaseIsDefaultCheckO""Add a default case to this switch.(Ş×Ïıÿÿÿÿ8ÃÁÉø„.
+Œ"squid:ClassVariableVisibilityCheck	"RMake Cabang a static final constant or non-public and provide accessors if needed.(¾ÛÁ‘şÿÿÿÿ8š™Çò„.
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆã®±8š™Çò„.
+Jsquid:S1444
+",Make this "public static maxArr" field final(ñ ¯8š™Çò„.
+usquid:S00117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È·Ğ¼ÿÿÿÿÿ8øúÛô„.
+jsquid:S1871V"LThis branch's code block is the same as the block for the branch on line 82.(«ö¯«8å“Ëø„.
+usquid:S00116"QRename this field "Lokasi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıêéÕüÿÿÿÿ8š™Çò„.
+ssquid:S00116!"TRename this field "Arr_Kamar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ·ãğ8ûË×Á„.
+@squid:S2386	"Make this member "protected".(¾ÛÁ‘şÿÿÿÿ8š™Çò„.
+zsquid:S00116"VRename this field "Harga_Malam" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şª­ºúÿÿÿÿ8š™Çò„.
+qsquid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤şÈ¯8ŞùÑ…….
+nsquid:S00100Ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÛí—8ŞùÑ…….
+ssquid:S00100ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ö¸çùÿÿÿÿ8ŞùÑ…….
+Isquid:S1444"+Make this "public static TOTAL" field final(´ÃŒÜ8Öì³Ê„.
+qsquid:S00117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤şÈ¯8ÃÁÉø„.
+qsquid:S00117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(° …É8ÃÁÉø„.
+rsquid:S00100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È·Ğ¼ÿÿÿÿÿ8øúÛô„.
+Š squid:ForLoopCounterChangedChecko"XRefactor the code in order to not assign to this loop counter from within the loop body.(³†‹P8ÃÁÉø„.
+psquid:S00117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õº78ŞùÑ…….
+vsquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûƒúÿÿÿÿ8ŞùÑ…….
+nsquid:S3008"PRename this field "TOTAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÃŒÜ8š™Çò„.
+jsquid:S1192/"GDefine a constant instead of duplicating this literal "Cabang" 5 times.(¡óş×ûÿÿÿÿ8ìÈäó„.
+vsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ö¸çùÿÿÿÿ8ŞùÑ…….
+wsquid:S1192>"TDefine a constant instead of duplicating this literal "Input Kode Kamar : " 3 times.(¤¨÷Âıÿÿÿÿ8ÃÁÉø„.
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ËÖàâ8š™Çò„.
+psquid:S00117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òõô×8š™Çò„.
+;squid:S2386"Make this member "protected".(´ÃŒÜ8²Âëõ„.
+Psquid:S1172Š",Remove this unused method parameter "TOTAL".(Ûƒúÿÿÿÿ8ŞùÑ…….
+nsquid:S00100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(° …É8ÃÁÉø„.
+msquid:S00101–"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÂÔË8ŞùÑ…….
+wsquid:S1192,"YDefine a constant instead of duplicating this literal "Input Lokasi Cabang : \n" 5 times.(¢Ğ°³8øúÛô„.
+ssquid:S00116"ORename this field "Kode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şÿõóÿÿÿÿÿ8š™Çò„.
+@squid:S2386"Make this member "protected".(ÄÀÁ¥øÿÿÿÿ8¯µÃ†….
+ssquid:S00100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûƒúÿÿÿÿ8ŞùÑ…….
+psquid:S00117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òõô×8š™Çò„.
+‡"squid:ClassVariableVisibilityCheck
+"RMake maxArr a static final constant or non-public and provide accessors if needed.(ñ ¯8š™Çò„.
+vsquid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñã¨üÿÿÿÿ8ÃÁÉø„.
+qsquid:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(×ã“ç8ŞùÑ…….
+usquid:S00116"VRename this field "Biaya_Rawat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¿ô¡8ÏÆü¦ƒ.
+‹"squid:ClassVariableVisibilityCheck"QMake penuh a static final constant or non-public and provide accessors if needed.(ÄÀÁ¥øÿÿÿÿ8¯µÃ†….

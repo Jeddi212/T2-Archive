@@ -1,0 +1,21 @@
+
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¸Éûv8ìúºÅ‰.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8Ò§ÖÅ‰.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔğÓÆøÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Éûv8ÅÕıÄ‰.
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ïº€Æ‰.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(Â—µÇùÿÿÿÿ8®Ú¼Å‰.
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(å¾æÀûÿÿÿÿ8Ò§ÖÅ‰.
+E
+java:S1125!"(Remove the literal "true" boolean value.(æ”„Œ8—§ÇÅ‰.
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(À„€8³»ÔÅ‰.
+J
+java:S1125"(Remove the literal "true" boolean value.(£†Û™şÿÿÿÿ8µ¾ÄÅ‰.
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(×Ÿëƒ8µÒÖÅ‰.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çöı8şÉÁÅ‰.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(İÙ8®Ú¼Å‰.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(Û®÷â8ººşÅ‰.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(úº‘üÿÿÿÿ8™ıÅ‰.
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(í¬”ö8µÒÖÅ‰.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(µŸŞ…şÿÿÿÿ8™ıÅ‰.

@@ -1,0 +1,57 @@
+// Nim  : 1119023
+// Nama : Jedediah Fanuel
+
+Procedure Priority_BasicEnqueue(I/O Q:TQueue, I data: Char, I prio: Int) {
+
+	if(isFull(Q, prio)) {
+
+		write("FULL")
+
+	} else {
+		
+		Q.Tail[prio] += 1
+		Q.Array[prio][Q.Tail[prio]] = data
+
+		if(Q.Head[prio] == 0) {
+
+			Q.Head[prio] = 1
+
+		}
+
+	}
+
+}
+
+
+Function Priority_Dequeue(I/O Q:TQueue) -> Char {
+
+	if(isEmpty(Q)) {
+
+		write("Kosong") OR return default value
+
+	} else {
+
+		prio = 1
+		while(Q.Head[prio] == 0) {
+
+			prio++
+
+		}
+
+		data = Q.Array[prio][Q.Head[prio]]
+		if(Q.Head[prio] == Q.Tail[Prio]) {
+
+			Q.Tail[prio] = 0
+			Q.Head[prio] = 0
+
+		} else {
+
+			Q.Head[prio] += 1
+
+		}
+
+		return data
+
+	}
+
+}

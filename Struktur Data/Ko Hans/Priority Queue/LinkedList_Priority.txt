@@ -1,0 +1,48 @@
+// Nim  : 1119023
+// Nama : Jedediah Fanuel
+
+Procedure LL_Priority_Enqueue(I/O Head: TQueue, I data: Char, I prio: Int) {
+	
+	TQueue dataBaru = new TQueue()
+	dataBaru.data = data
+	dataBaru.prio = prio
+	dataBaru.next = NULL
+
+	TQueue *cek = new TQueue()
+	cek = Head
+
+	TQueue *nodeSebelumCek = new TQueue()
+
+	if(Head == NULL) {
+		
+		Head = dataBaru
+
+	} else {
+
+		Asumsi (prio 1 tertinggi)
+		while(dataBaru.prio >= cek.prio && cek != NULL) {
+
+			nodeSebelumCek = cek
+			cek = cek.next
+
+		}
+
+		if(cek == Head) { // Add First
+
+			dataBaru.next = cek
+			Head = dataBaru
+
+		} else if(cek == NULL) { // Add Last
+
+			nodeSebelumCek.next = dataBaru
+
+		} else { // Add Mid, diantrian belakang dari prioritasnya
+
+			dataBaru.next = cek
+			nodeSebelumCek.next = dataBaru
+
+		} 
+
+	}
+
+}

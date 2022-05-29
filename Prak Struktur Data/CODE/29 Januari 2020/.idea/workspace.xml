@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b25045ca-df50-4457-a1a0-99df22e4885c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XA8RI7lxJBDVOcwhmvqdXHsExY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JedediahNomor1/src/jedediah/nomor/pkg1/JedediahNomor1.java" />
+    <property name="settings.editor.selected.configurable" value="com.codota.intellij.common.configuration.CodotaConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b25045ca-df50-4457-a1a0-99df22e4885c" name="Default Changelist" comment="" />
+      <created>1580477529074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580477529074</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Notifications" timestamp="1580477539344">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1580477539344" />
+    <state x="212" y="0" width="1092" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580478461650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="212" y="0" width="1092" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580478461650" />
+    <state x="524" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580477643795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="524" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1580477643795" />
+    <state x="417" y="116" key="EnvironmentVariablesDialog" timestamp="1580478212099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="116" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1580478212099" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1580478201523">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580478201523" />
+    <state width="1323" height="158" key="GridCell.Tab.0.bottom" timestamp="1580478468367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580478468367" />
+    <state width="1323" height="158" key="GridCell.Tab.0.center" timestamp="1580478468367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580478468367" />
+    <state width="1323" height="158" key="GridCell.Tab.0.left" timestamp="1580478468366">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580478468366" />
+    <state width="1323" height="158" key="GridCell.Tab.0.right" timestamp="1580478468367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580478468367" />
+    <state x="366" y="2" key="SettingsEditor" timestamp="1580477952603">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="366" y="2" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580477952603" />
+  </component>
+</project>

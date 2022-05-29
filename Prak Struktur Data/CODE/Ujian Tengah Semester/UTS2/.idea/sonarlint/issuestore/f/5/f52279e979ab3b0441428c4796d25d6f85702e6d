@@ -1,0 +1,50 @@
+
+F
+java:S1905U")Remove this unnecessary cast to "String".(‹ËúÔ8Ç»Éç‹.
+i	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ğ²"8Ûğàç‹.
+d
+java:S1192U"GDefine a constant instead of duplicating this literal "Cabang" 3 times.(‹ËúÔ8Ûğàç‹.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÓÿÜÎüÿÿÿÿ8ï–ûæ‹.
+u	java:S116"TRename this field "NamaSkill" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¨×Ïùÿÿÿÿ8©éıæ‹.
+[
+java:S4973`"9Use the "equals" method if value comparison was intended.(Åş­ùÿÿÿÿ8¶£ïç‹.
+o	java:S116"NRename this field "ATK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ãÅüÿÿÿÿ8¢¥Åæ‹.
+m	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«è¿±8¥‹«ç‹.
+k	java:S116"ORename this field "Nama" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íî¤¦8¿ÓÄæ‹.
+q	java:S116"PRename this field "Kelas" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ù›øÿÿÿÿ8ééÄæ‹.
+j	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÈõ­8Ç»Éç‹.
+[
+java:S4973}"9Use the "equals" method if value comparison was intended.(õğ«ğûÿÿÿÿ8Ûğàç‹.
+l	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ğ²"8Ûğàç‹.
+N
+java:S1481q",Remove this unused "options" local variable.(¢»²‚şÿÿÿÿ8Ûğàç‹.
+p	java:S116"ORename this field "Type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÁª“ûÿÿÿÿ8©éıæ‹.
+p	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š·©îÿÿÿÿÿ8ûæ•è‹.
+]
+java:S1854q";Remove this useless assignment to local variable "options".(¢»²‚şÿÿÿÿ8Ûğàç‹.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øâç·ıÿÿÿÿ8â‚Äæ‹.
+j	java:S116"NRename this field "DEF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºƒÈ‚8äÌÇæ‹.
+L
+java:S1481t"*Remove this unused "pilih" local variable.(™­¡¬úÿÿÿÿ8ã÷åç‹.
+i	java:S101("MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÂÔË8¥‹«ç‹.
+[
+java:S4973Z"9Use the "equals" method if value comparison was intended.(õğ«ğûÿÿÿÿ8‘üÙç‹.
+?
+java:S2386	"Make this member "protected".(ËÀ­€ùÿÿÿÿ8Ÿ¢•ç‹.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔğÓÆøÿÿÿÿ
+m	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÈõ­8Ç»Éç‹.
+¤
+java:S1186ƒ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Š·©îÿÿÿÿÿ8ß§™è‹.
+s	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š·©îÿÿÿÿÿ8ıÅ–è‹.
+g	java:S116"MRename this field "HP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÂR8×‰Åæ‹.
+K
+java:S1905z")Remove this unnecessary cast to "String".(²Æ˜·ıÿÿÿÿ8Ûğàç‹.
+[
+java:S1854t"9Remove this useless assignment to local variable "pilih".(™­¡¬úÿÿÿÿ8§Âåç‹.
+M
+java:S1444	"+Make this "public static chara" field final(ËÀ­€ùÿÿÿÿ8ì»–ç‹.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£ïâš8¤Š½æ‹.
+s
+java:S1104	"QMake chara a static final constant or non-public and provide accessors if needed.(ËÀ­€ùÿÿÿÿ8ì»–ç‹.
+K
+java:S1905t")Remove this unnecessary cast to "String".(™­¡¬úÿÿÿÿ8§Âåç‹.

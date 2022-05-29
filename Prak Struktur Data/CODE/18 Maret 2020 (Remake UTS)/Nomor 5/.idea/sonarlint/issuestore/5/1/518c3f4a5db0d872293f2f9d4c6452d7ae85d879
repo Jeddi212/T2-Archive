@@ -1,0 +1,21 @@
+
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(©™‹‡8û¯Ü.
+U	java:S106["9Replace this use of System.out or System.err by a logger.(ÖÄŸ«8¤°áÛ.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ì ã8š€éÚ.
+q
+java:S3008"ORename this field "Tail" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñá”‘şÿÿÿÿ8èıÚÚ.
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8û¯Ü.
+e
+java:S2259P"CA "NullPointerException" could be thrown; "hapus" is nullable here.(ıã”ÿÿÿÿÿ8‚šŒÜ.
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(İ‘É»úÿÿÿÿ8¤°áÛ.
+T	java:S106+"9Replace this use of System.out or System.err by a logger.(±í O8š€éÚ.
+_
+java:S2259M"BA "NullPointerException" could be thrown; "Tail" is nullable here.(ğÆîú8‚šŒÜ.
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8™ƒˆÜ.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ÿ›Ş8š€éÚ.
+q
+java:S3008"ORename this field "Head" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¹¶Øøÿÿÿÿ8¢àÚÚ.
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8äèˆÜ.
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(ÚÔ¥øüÿÿÿÿ8û¯Ü.
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8£É…Ü.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔğÓÆøÿÿÿÿ

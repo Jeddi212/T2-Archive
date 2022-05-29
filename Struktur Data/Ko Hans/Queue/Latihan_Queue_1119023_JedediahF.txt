@@ -1,0 +1,112 @@
+Nim     : 1119023
+Nama    : Jedediah Fanuel
+Materi  : Queue
+Kelas   : Struktur Data [IF-A]
+Tanggal : Rabu, 8 April 2020
+
+
+// BASIC QUEUE
+Procedure Enqueue(I/O Q: TQueue, I data: Char) {
+    
+    if(isFull(TQueue)) {
+
+        print("Queue Penuh")
+
+    } else {
+
+        if(isEmpty(TQueue)) {
+
+            TQueue.Head = 1
+
+        }
+
+        TQueue.Tail += 1
+        TQueue.Array[TQueue.Tail] = data
+
+    }
+
+}
+
+Function Dequeue(I/O Q: TQueue) -> Char {
+    
+    if(isEmpty(TQueue)) {
+
+        print("Queue Kosong")
+
+    } else {
+
+        print(TQueue.Array[TQueue.Head])
+        TQueue.Head += 1
+
+        if(TQueue.Head > TQueue.Tail) {
+
+            TQueue.Head = 0
+            TQueue.Tail = 0
+
+        }
+
+    }
+
+}
+
+
+// SHIFTING QUEUE
+Procedure Enqueue(I/O Q: TQueue, I data: Char) {
+    
+    if(isFull(TQueue)) {
+
+        if(TQueue.Head == 1) { // Bener-bener full
+
+            print("Queue Penuh")
+
+        } else { // Array index terakhir udh terisi, index di depannya ada yang kosong
+
+            int temp = 0
+            for int i <- TQueue.Head to TQueue.Tail do {
+
+                temp += 1
+                TQueue.Array[temp] = TQueue.Array[i]
+
+            }
+
+            TQueue.Head = 1
+            TQueue.Tail = temp
+
+        }
+
+    } else {
+
+        if(isEmpty(TQueue)) {
+
+            TQueue.Head = 1
+
+        }
+
+        TQueue.Tail += 1
+        TQueue.Array[TQueue.Tail] = data
+
+    }
+
+}
+
+Function Dequeue(I/O Q: TQueue) -> Char {
+    
+    if(isEmpty(TQueue)) {
+
+        print("Queue Kosong")
+
+    } else {
+
+        print(TQueue.Array[TQueue.Head])
+        TQueue.Head += 1
+
+        if(TQueue.Head > TQueue.Tail) {
+
+            TQueue.Head = 0
+            TQueue.Tail = 0
+
+        }
+
+    }
+
+}
